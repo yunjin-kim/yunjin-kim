@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yunjin-kim
-- 👀 I’m interested in fornt-end
+- 👀 I’m interested in front-end
 - 🌱 I’m currently learning mysql, javascript
 
 <!---
