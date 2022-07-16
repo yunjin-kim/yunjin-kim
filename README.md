@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @yunjin-kim
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning Javascript, React, Redux, Typescript
+- 🌱 I’m currently learning JavaScript, React, TypeScript
