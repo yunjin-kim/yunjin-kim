@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @yunjin-kim
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning Next.js, NestJS
+- 👋 Hola~ I’m @yunjin-kim
+- 💁 I’m current a frontend developer and solopreneur
+- 💻 I’m currently using Next.js, NestJS
