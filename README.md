@@ -1,3 +1,8 @@
-- 👋 Hola~ I’m @yunjin-kim
-- 💁 I’m current a frontend developer and solopreneur
-- 💻 I’m currently using Next.js, NestJS
+Come to the edge.
+We might fall.
+Come to the edge.
+It's too high!
+Come to the edge.
+And they came,
+and he pushed,
+and they flew.
